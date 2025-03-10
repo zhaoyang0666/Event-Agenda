@@ -4,18 +4,16 @@
 
 ![Microsoft 365](https://www.interopevents.com/images/uploads/images/general-website-images/eventsPageBanner.png?width=1920)
 
-## Microsoft 365 DevDays
-
 Microsoft is coming back to Beijing this November for another exciting developer event! This two-day event will be packed with both introductory and deep-dive sessions across the Microsoft 365 and SQL Server platform.
 
-### Attend a range of sessions with highlights such as:
+Attend a range of sessions with highlights such as:
 
 - Custom AI solutions with Azure Databricks
 - Microsoft Graph 101 and Roadmap Updates
 - Development with SharePoint Framework (SPFx)
 - Bot Development with Microsoft Teams
 
-### Event Details:
+Event Details:
 
 **What:** Microsoft 365 DevDays  
 **When:** November 17th-18th, 2018  
