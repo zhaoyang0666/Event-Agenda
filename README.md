@@ -2,7 +2,7 @@
 
 *Article • 10/18/2018*
 
-![Microsoft 365](/eventsPageBanner.png)
+![Microsoft 365](https://www.interopevents.com/images/uploads/images/general-website-images/eventsPageBanner.png?width=1920)
 
 ## Microsoft 365 DevDays
 
