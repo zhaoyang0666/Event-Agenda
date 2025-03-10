@@ -2,7 +2,7 @@
 
 *Article • 10/18/2018*
 
-![Microsoft 365](./eventsPageBanner.png)
+![Microsoft 365](/eventsPageBanner.png)
 
 ## Microsoft 365 DevDays
 
