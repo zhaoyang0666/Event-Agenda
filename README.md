@@ -17,11 +17,11 @@ Microsoft is coming back to Beijing this November for another exciting developer
 
 ### Event Details:
 
-- **What:** Microsoft 365 DevDays  
-- **When:** November 17th-18th, 2018  
-- **Where:** Microsoft Asia Pacific R&D Group Headquarters  
-- **Who:** Solution providers, system integrators, developers, ISVs, startups, and students  
-- **Cost:** FREE!  
+**What:** Microsoft 365 DevDays  
+**When:** November 17th-18th, 2018  
+**Where:** Microsoft Asia Pacific R&D Group Headquarters  
+**Who:** Solution providers, system integrators, developers, ISVs, startups, and students  
+**Cost:** FREE!  
 
 This is an event you won’t want to miss, register now!
 
