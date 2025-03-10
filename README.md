@@ -2,7 +2,7 @@
 
 *Article • 10/18/2018*
 
-![Microsoft 365](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Microsoft_logo.svg/1200px-Microsoft_logo.svg.png)
+![Microsoft 365](eventsPageBanner.png)
 
 ## Microsoft 365 DevDays
 
