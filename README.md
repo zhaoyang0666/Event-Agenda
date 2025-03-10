@@ -26,6 +26,7 @@ Microsoft is coming back to Beijing this November for another exciting developer
 This is an event you won’t want to miss, register now!
 
 [REGISTER NOW](#)
+<a href="#" style="display: inline-block; padding: 10px 20px; font-size: 16px; color: white; background-color: #0078D4; text-decoration: none; border-radius: 5px;">REGISTER NOW</a>
 
 You can find all event details at [here](#)
 
