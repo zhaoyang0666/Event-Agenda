@@ -20,8 +20,6 @@ SNIA supports the network and infrastructure for the IO Lab, creating a collabor
 
 New this year: The IO Lab will end on Thursday 9/19, so you can continue testing after the main conference ends!
 
-# SNIA SMB3 IO Lab
-
 ## The SNIA SMB3 IO Lab offers:
 
 - The latest Windows client and server software from Microsoft, including test suites that help verify interoperability on various features of SMB3 protocols.
