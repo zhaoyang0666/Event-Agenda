@@ -46,7 +46,7 @@ The SMB3 IO Lab is also a development opportunity, not just a testing opportunit
 |----------------|----------|
 | **9:00 AM**  | Welcome! IO LAB Testing Starts |
 | **11:00 AM-11:15 AM**  | Meet & Greet with the SMB3 IO LAB team |
-| **11:15 AM-12:00 PM** | SMB3.1.1 POSIX Extensions - Steve French (LIVE） [📄]([https://msopenspecs.microsoft.com/Interopevents/PDF/2024/SNIA SDC SMB3 IO LAB 2024/SMF-Linux-SMB3.1.1-Extensions-SNIA_SMB3IOLab_2024.pdf](https://msopenspecs.microsoft.com/Interopevents/PDF/2024/SNIA%20SDC%20SMB3%20IO%20LAB%202024/SMF-Linux-SMB3.1.1-Extensions-SNIA_SMB3IOLab_2024.pdf)) [🎥](https://interopevents.com/en-us/videos/281)                 |
+| **11:15 AM-12:00 PM** | SMB3.1.1 POSIX Extensions - Steve French (LIVE） [📄](https://msopenspecs.microsoft.com/Interopevents/PDF/2024/SNIA%20SDC%20SMB3%20IO%20LAB%202024/SMF-Linux-SMB3.1.1-Extensions-SNIA_SMB3IOLab_2024.pdf)  [🎥](https://interopevents.com/en-us/videos/281)                 |
 | **12:00 PM-1:30 PM** | **SNIA SDC Lunch** |
 | **5:30 PM- 6:30 PM** | SMB3 IO LAB Reception! |
 
