@@ -20,13 +20,13 @@ SNIA supports the network and infrastructure for the IO Lab, creating a collabor
 
 New this year: The IO Lab will end on Thursday 9/19, so you can continue testing after the main conference ends!
 
-## The SNIA SMB3 IO Lab offers:
+### The SNIA SMB3 IO Lab offers:
 
 - The latest Windows client and server software from Microsoft, including test suites that help verify interoperability on various features of SMB3 protocols.
 - Technical support from SMB3 engineers to look at traces and help with diagnosing problems.
 - Opportunities to learn from the experts.
 
-## SNIA SMB3 IO Lab Logistics
+### SNIA SMB3 IO Lab Logistics
 
 A primary representative from each company that wishes to participate must complete the SNIA SMB3 Plugfest Company Registration. The SMB3 IO Lab fee includes full access to the Storage Developer Conference sessions and meals. This special discounted rate is limited to participants that will actively participate and test, working with the other SMB3 IO Lab participants. Please see more details at the registration process.
 
