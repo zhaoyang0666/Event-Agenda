@@ -43,19 +43,19 @@ The SMB3 IO Lab is also a development opportunity, not just a testing opportunit
 
 | Time            | Sessions |
 |----------------|----------|
-| **9:00 AM**  | ***Welcome! IO LAB Testing Starts*** |
-| **11:00 AM-11:15 AM**  | ***Meet & Greet with the SMB3 IO LAB team*** |
-| **11:15 AM-12:00 PM** | ***SMB3.1.1 POSIX Extensions*** - Steve French (LIVE） 📄 🎥 |
+| **9:00 AM**  | Welcome! IO LAB Testing Starts |
+| **11:00 AM-11:15 AM**  | Meet & Greet with the SMB3 IO LAB team |
+| **11:15 AM-12:00 PM** | SMB3.1.1 POSIX Extensions - Steve French (LIVE） 📄 🎥                 |
 | **12:00 PM-1:30 PM** | **SNIA SDC Lunch** |
-| **5:30 PM- 6:30 PM** | ***SMB3 IO LAB Reception!*** |
+| **5:30 PM- 6:30 PM** | SMB3 IO LAB Reception! |
 
 
 #### September 17,2024
 
 | Time            | Sessions |
 |----------------|----------|
-| **9:00 AM-12:00 PM**  | ***IO Lab Testing & SNIA Keynotes Until Lunch*** |
-| **12:30 PM-1:00 PM**  | SNIA SDC Lunch  |
+| **9:00 AM-12:00 PM**  | IO Lab Testing & SNIA Keynotes Until Lunch                          |
+| **12:30 PM-1:00 PM**  | ***SNIA SDC Lunch***  |
 
 
 #### September 18, 2024
@@ -63,18 +63,18 @@ The SMB3 IO Lab is also a development opportunity, not just a testing opportunit
 | Time            | Sessions |
 |----------------|----------|
 | **9:00 AM**  | IO Lab Testing & SNIA Keynotes Until Lunch |
-| **12:30 PM-1:30 PM**  | ***IO LAB Testing & SNIA SMB3 Track***  |
-| **3:30 PM- 4:00 PM**  | ***Azure SMB (xSMB) Q&A*** - Utsav Mohata, Rena (LIVE)   |
-| **4:00 PM- 4:45 PM**  | ***SMB changes in Windows 11 and Windows Server 2025*** - Ned Pyle  |
-| **4:45 PM- 5:30 PM**  | ***Continue the Discussion with SMB team Q&A*** - SMB dev team  📄 🎥 |
+| **12:30 PM-1:30 PM**  | ***SNIA SDC Lunch***  |
+| **3:30 PM- 4:00 PM**  | Azure SMB (xSMB) Q&A - Utsav Mohata, Rena (LIVE)   |
+| **4:00 PM- 4:45 PM**  | SMB changes in Windows 11 and Windows Server 2025 - Ned Pyle  |
+| **4:45 PM- 5:30 PM**  | Continue the Discussion with SMB team Q&A - SMB dev team  📄 🎥       |
 
 
 #### September 19, 2024
 
 | Time            | Sessions |
 |----------------|----------|
-| **9:00 AM**  | ***IO LAB Testing*** |
+| **9:00 AM**  | IO LAB Testing |
 | **12:00 PM- 2:00 PM**  | **SMB3 IO Lab Pizza Lunch**  |
-| **3:30 PM- 4:15 PM**  | ***Tear Down Begins …*** |
-| **4:00 PM- 4:45 PM**  | ***IO LAB ends, Room must be cleared by 5PM*** |
-| **5:30 PM- 6:30 PM**  | ***See you at the next SMB3 IO LAB！*** |
+| **3:30 PM- 4:15 PM**  | Tear Down Begins … |
+| **4:00 PM- 4:45 PM**  | IO LAB ends, Room must be cleared by 5PM                            |
+| **5:30 PM- 6:30 PM**  | See you at the next SMB3 IO LAB！ |
