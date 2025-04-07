@@ -2,7 +2,7 @@
 
 *September 16 - 19, 2024*
 
-![Interop Dev Events](https://interopevents.com/images/events/generic/santaclara/headers/5769188-karina-carvalho-100449-unsplash.jpg?width=1920&quot;)
+![Interop Dev Events](https://interopevents.com/images/events/generic/santaclara/headers/5769188-karina-carvalho-100449-unsplash.jpg?width=1920;)
 
 Please join us at the SNIA SDC SMB3 IO Lab event, co-sponsored with SNIA, from September 16-19, 2024. The purpose of this Interoperability Lab is for vendors to test their implementations of SMB3 and identify and fix bugs in a collaborative setting with the goal of providing a forum in which companies can develop interoperable products.
 
