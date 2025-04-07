@@ -9,6 +9,7 @@ Please join us at the SNIA SDC SMB3 IO Lab event, co-sponsored with SNIA, from S
 Event Information:
 
 <a href="#" style="display: inline-block; padding: 10px 20px; font-size: 16px; color: white; background-color: #0078D4; text-decoration: none; border-radius: 5px;">Go to main event page</a>
+
 **What:** SNIA Storage Developer Conference SMB3 IO Lab  
 **When:** September 16-19, 2024 
 **Where:** Santa Clara, California  
